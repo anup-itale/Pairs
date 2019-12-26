@@ -1,2 +1,2 @@
-# Pairs
-Pairs Trading
+# pairs
+Pairs trading in Python 
